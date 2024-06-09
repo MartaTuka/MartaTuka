@@ -15,9 +15,10 @@ Si te gusta lo que ves, puedes dejarme comentarios con tu opinión o escribirme 
 
 
 ## 🌐 Socials:
-https://www.linkedin.com/in/marta-mart%C3%ADn-5840a987/
-<a href="mailto: tuka3k@hotmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />csalvadordiaz689@gmail.com</a>
-</p>
+
+[LinkedIn](https://www.linkedin.com/in/marta-mart%C3%ADn-5840a987/)
+
+
 
 
 # 💻 Tech Stack:
