@@ -1,9 +1,6 @@
 # ¡¡ Bienvenidos !! 👋
 ## MartaTuka
 
- <p align="center">
-  <img src="https://github.com/MartaTuka/random_images/blob/main/MartaTuka?raw=true" alt="banner that says MartaTuka - Software development enfineer">
-</p>
 
 Mi nombre es Marta y estoy diplomada como Maestra de Audición y Lenguaje por la Universidad Autónoma de Madrid. Soy una pasionada del aprendizaje y la evolución contínua, por lo que posteriormente he continuado mis estudios y formación con Registros contables, contabilidad y finanzas, Salario y contratación, Análisis estadísticos de calidad, gestión de Recursos Humanos, gestión del riesgo empresarial...
 
