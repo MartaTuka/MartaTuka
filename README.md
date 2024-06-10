@@ -24,6 +24,8 @@ Si te gusta lo que ves, puedes dejarme comentarios con tu opinión o escribirme 
 
 📫  tuka3k@hotmail.com
 
+📫  tukamartinf@gmail.com
+
 
 
 # 💻 Tech Stack:
