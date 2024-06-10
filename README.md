@@ -1,6 +1,8 @@
 # ¡¡ Bienvenidos !! 👋
 ## MartaTuka
 
+![Marta Martin](https://github.com/MartaTuka/imagen/blob/main/linkedin.jpeg)
+
 
 Mi nombre es Marta y estoy diplomada como Maestra de Audición y Lenguaje por la Universidad Autónoma de Madrid. Soy una pasionada del aprendizaje y la evolución contínua, por lo que posteriormente he continuado mis estudios y formación con Registros contables, contabilidad y finanzas, Salario y contratación, Análisis estadísticos de calidad, gestión de Recursos Humanos, gestión del riesgo empresarial...
 
