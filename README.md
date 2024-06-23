@@ -21,8 +21,6 @@ Si te gusta lo que ves, puedes dejarme comentarios con tu opinión o escribirme 
 
 [LinkedIn](https://www.linkedin.com/in/marta-mart%C3%ADn-5840a987/) 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-
 
 📫  tuka3k@hotmail.com
 
